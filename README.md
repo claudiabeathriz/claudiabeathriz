@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @claudiabeathriz
+- 👋 Hi, I’m Claudia Beathriz!
 - 👀 I’m interested in movies, music, discovering new things and places and listening to people telling stories.
 - 🌱 I’m currently learning SQL, Python, Power BI and improving my Excel skills.
 - 💞️ I’m looking to collaborate on data analysis projects.

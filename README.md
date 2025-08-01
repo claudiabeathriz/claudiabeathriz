@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Claudia Beathriz!
-- 👀 I’m interested in Data Analysis.
-- 🌱 I’m currently learning SQL, Power BI, Tableau and improving my Excel skills.
-- 💞️ I’m looking to collaborate on data analysis projects.
+- 👀 I’m interested in .
+- 🌱 I’m currently learning , ,  and improving my  skills.
+- 💞️ I’m looking to collaborate on  projects.
 - 📫 You can contact me on my e-mail claudiabopacheco@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/claudiabopacheco/.
 - 😄 Pronouns: she/her.
 

@@ -1,11 +1,39 @@
-- 👋 Hi, I’m Claudia Beathriz!
-- 👀 I’m interested in .
-- 🌱 I’m currently learning , ,  and improving my  skills.
-- 💞️ I’m looking to collaborate on  projects.
-- 📫 You can contact me on my e-mail claudiabopacheco@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/claudiabopacheco/.
-- 😄 Pronouns: she/her.
+# 👋 Hi there, I’m Claudia Beathriz!
 
-<!---
-claudiabeathriz/claudiabeathriz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Aspiring Software Engineer | Back-End Developer**  
+
+---
+
+## 👀 About Me
+I’m passionate about **Software Engineering**, especially **back-end development**.  
+Currently, I’m learning **Java** and improving my skills in **web development, APIs, and databases**.  
+
+---
+
+## 🌱 Currently Learning
+- Java (OOP, collections, streams)  
+- SQL & Databases 
+- Git & GitHub workflows  
+- REST APIs and back-end fundamentals  
+
+---
+
+## 💞️ Collaboration
+I’m looking to collaborate on **interesting projects**, especially those where I can contribute with **back-end development, or automation**.  
+
+---
+
+## 📫 Contact Me
+- Email: [claudiabopacheco@gmail.com](mailto:claudiabopacheco@gmail.com)  
+- LinkedIn: [https://www.linkedin.com/in/claudiabopacheco/](https://www.linkedin.com/in/claudiabopacheco/)
+
+---
+
+## 😄 Pronouns
+She/Her  
+
+---
+
+## ⚡ Fun Fact / Interests
+- I love working on **projects that challenge me** and help me grow as a developer.  
+- Interested in **technology, travel, and continuous learning**.  

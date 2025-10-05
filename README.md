@@ -29,11 +29,6 @@ I’m looking to collaborate on **interesting projects**, especially those where
 
 ---
 
-## 😄 Pronouns
-She/Her  
-
----
-
 ## ⚡ Fun Fact / Interests
 - I love working on **projects that challenge me** and help me grow as a developer.  
 - Interested in **technology, travel, and continuous learning**.  

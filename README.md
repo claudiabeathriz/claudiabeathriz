@@ -12,7 +12,7 @@ Currently, I’m learning **Java** and improving my skills in **web development,
 
 ## 🌱 Currently Learning
 - Java (OOP, collections, streams)
-- DSA and Algorithms (with C and C++)
+- DSA and Algorithms
 - Spring Boot
 - React
 - Node.js

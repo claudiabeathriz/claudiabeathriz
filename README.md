@@ -22,33 +22,20 @@ I’m looking to collaborate on **interesting projects**, especially those where
 ---
 
 Tecnologias e Ferramentas
+
 Java
-
 Spring
-
 Git
-
 GitHub
-
-GitLab
-
+JavaScript
 TypeScript
-
 NodeJs
-
 Express
-
 Python
-
-Flask
-
 Linux
-
 MySQL
-
+PostgreSQL
 Insomnia
-
-Postman
 
 ## ⚡ Fun Fact / Interests
 - I love working on **projects that challenge me** and help me grow as a developer.  

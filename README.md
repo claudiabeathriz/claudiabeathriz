@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Claudia Beathriz!
 
-💻 **Junior Back-End Developer | Software Engineer in Training**
+💻 **Back-End Developer | Software Engineer in Training**
 
 ---
 

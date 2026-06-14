@@ -42,57 +42,7 @@ My goal is to bridge the gap between Software Engineering and Cybersecurity by b
 
 ---
 
-## 🛠️ Tech Stack
-
-### Backend & Architecture
-
-* Java
-* Spring Boot
-* Spring Security
-* REST APIs
-* JPA / Hibernate
-* Layered Architecture
-* Clean Code
-
-### Security
-
-* OWASP Top 10
-* Secure Coding
-* JWT Authentication & Authorization
-* Application Security Fundamentals
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* Oracle
-
-### Cloud, DevSecOps & Observability
-
-* AWS (EC2, S3, IAM)
-* Docker
-* Kubernetes (Fundamentals)
-* GitHub Actions
-* Jenkins
-* Grafana
-* Kafka
-
-### Testing & Documentation
-
-* JUnit
-* Mockito
-* OpenAPI / Swagger
-
-### Tools & Practices
-
-* Git
-* GitHub
-* GitFlow
-* Linux
-* Bash
-* Scrum
-* Kanban
-
+## 🛠️ Technologies and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>

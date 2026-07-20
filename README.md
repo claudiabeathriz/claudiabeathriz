@@ -103,7 +103,5 @@ To become a Backend Software Engineer specialized in Secure Software Development
 ## 🤝 Let's Connect
 
 Email: **[claudiabopacheco@gmail.com](mailto:claudiabopacheco@gmail.com)**
-
 LinkedIn: **linkedin.com/in/claudiabopacheco**
-
-🐙 GitHub: **github.com/claudiabeathriz**
+GitHub: **github.com/claudiabeathriz**

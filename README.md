@@ -10,7 +10,7 @@ Currently, I work in Cybersecurity consulting at Ernst & Young while building ba
 
 ---
 
-## 🚀 What I'm Currently Focused On
+## What I'm Currently Focused On
 
 * Backend Development with Java & Spring Boot
 * Secure Software Development
@@ -23,7 +23,7 @@ Currently, I work in Cybersecurity consulting at Ernst & Young while building ba
 
 ---
 
-## 🔐 Security-Driven Development
+## Security-Driven Development
 
 I believe security should be part of the development lifecycle from day one.
 
@@ -32,8 +32,6 @@ My studies and projects incorporate concepts such as:
 * OWASP Top 10
 * Secure Coding Practices
 * Authentication & Authorization
-* JWT Security
-* API Security
 * Risk Assessment
 * Vulnerability Management
 * DevSecOps Principles
@@ -42,7 +40,7 @@ My goal is to bridge the gap between Software Engineering and Cybersecurity by b
 
 ---
 
-## 🛠️ Technologies and Tools
+## Technologies and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
@@ -66,7 +64,7 @@ My goal is to bridge the gap between Software Engineering and Cybersecurity by b
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### SecureFlow
 
@@ -86,7 +84,7 @@ Key technologies:
 * Grafana
 * Ollama (Local LLM Integration)
 
-## 🌎 Languages
+## Languages
 
 * Portuguese (Native)
 * English (Fluent)
@@ -96,7 +94,7 @@ Key technologies:
 
 ---
 
-## 🎯 Career Goal
+## Career Goal
 
 To become a Backend Software Engineer specialized in Secure Software Development, combining strong engineering fundamentals with cybersecurity knowledge to design resilient and secure systems.
 
@@ -104,8 +102,8 @@ To become a Backend Software Engineer specialized in Secure Software Development
 
 ## 🤝 Let's Connect
 
-📧 Email: **[claudiabopacheco@gmail.com](mailto:claudiabopacheco@gmail.com)**
+Email: **[claudiabopacheco@gmail.com](mailto:claudiabopacheco@gmail.com)**
 
-💼 LinkedIn: **linkedin.com/in/claudiabopacheco**
+LinkedIn: **linkedin.com/in/claudiabopacheco**
 
 🐙 GitHub: **github.com/claudiabeathriz**

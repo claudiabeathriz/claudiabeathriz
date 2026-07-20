@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Claudia Beathriz
+# Hi, I'm Claudia Beathriz :)
 
 ### Backend Engineer | Secure Software Development | Cybersecurity Enthusiast
 
@@ -68,7 +68,7 @@ My goal is to bridge the gap between Software Engineering and Cybersecurity by b
 
 ## 📂 Featured Projects
 
-### SecureLog
+### SecureFlow
 
 Security Incident Management Platform
 
@@ -85,25 +85,6 @@ Key technologies:
 * Docker
 * Grafana
 * Ollama (Local LLM Integration)
-
-### NexOrder API
-
-Order Management API
-
-Backend application focused on user management, authentication, authorization, testing, and API documentation.
-
-Key technologies:
-
-* Java
-* Spring Boot
-* PostgreSQL
-* JWT
-* Docker
-* JUnit
-* Mockito
-* Swagger/OpenAPI
-
----
 
 ## 🌎 Languages
 

@@ -26,11 +26,11 @@ I primarily work with **Java, Spring Boot, Go, Python, and TypeScript**, explori
 
 ### Featured Projects
 
-**[SecureFlow](#)** — Java · Spring Boot · PostgreSQL · Docker
+**[SecureFlow](https://github.com/claudiabeathriz/secureflow-api)** — Java · Spring Boot · PostgreSQL · Docker
 
 A backend application focused on secure development, authentication, authorization, and maintainable architecture.
 
-**[AI Security PR Review](#)** — Java · Spring Boot · AI · Application Security
+**[AI Security PR Review](https://github.com/claudiabeathriz/ai-security-pr-reviewer)** — Java · Spring Boot · AI · Application Security
 
 A project exploring AI-assisted security analysis of GitHub pull requests and the detection of potentially insecure coding patterns.
 
